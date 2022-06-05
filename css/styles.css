@@ -222,10 +222,6 @@ p {
   margin-right: 30px;
 }
 
-.about-title {
-  margin-bottom: 50px;
-}
-
 .about-title,
 .team-title {
   font-size: 36px;
@@ -233,6 +229,7 @@ p {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-title-color);
+  margin-bottom: 50px;
 }
 
 .team-name {
